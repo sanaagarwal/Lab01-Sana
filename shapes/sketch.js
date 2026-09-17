@@ -16,5 +16,4 @@ function draw() {
 
     fill("red");
     triangle(232, 45, 190, 65, 240, 90)
-
 }
